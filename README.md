@@ -1,6 +1,5 @@
 This Tool Is made By Vashu Tyagi or invictus youtube channel.
-
-
+`Plocater Tool`
 About Tool
 Plocater is  advance tool for gathering information about ip addr and mobile phone number
 and you can run this tool in bot linux and termux(This Tool is Only For debain based systems,we launch for more linux system soon.
@@ -14,7 +13,7 @@ How to install
 
 2.Open The Plocater Folder
 
-3. 'bash install.sh'
+3. `bash install.sh`
 
 
-4. 'python3 Plocater.py'
+4. `python3 Plocater.py`
