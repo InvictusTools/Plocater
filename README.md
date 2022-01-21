@@ -30,7 +30,7 @@ How to install
 
 
 
-3. `bash install.sh`
+3. `bash Install.sh`
 
 
 
