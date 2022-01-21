@@ -3,4 +3,4 @@ sudo apt install python3
  pip install simplejson
 pip install phonenumbers
 echo "finished"
-echo"now run Plocater.py"
+
